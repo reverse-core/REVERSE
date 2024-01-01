@@ -1,2 +1,2 @@
 > [!WARNING]
-> *If you are trying to get keys from [worst-packed](https://github.com/exotic-inx/REVERSE/blob/main/Worst-packed.py) then avoid pycdc or pycdas*
+> *If you are trying to get key from [worst-packed](https://github.com/exotic-inx/REVERSE/blob/main/Hard/Worst-packed.py) then be aware and avoid pycdc*
