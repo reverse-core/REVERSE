@@ -1,6 +1,6 @@
 ![Picsart_24-01-09_14-25-54-313](https://github.com/exotic-inx/REVERSE/assets/92029487/977a586c-0640-4ad2-ba24-6488c6c25e65)
 
-<h5 align="center"><b>Deobfuscate the attached files and contact the Author with Reversed Keys</b</h5>
+<h5 align="center"><b>Deobfuscate the attached files and contact the Author with Reversed Keys</b></h5>
 
 <h5><b>OBFUCATED FILE</b></h5>
 
