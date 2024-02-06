@@ -19,4 +19,4 @@
 > [!NOTE]  
 > ****All the obfuscators are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder****.
 
-* **Official Administer** [Exotic Hridoy](facebook.com/deobfuscate)
+* **Official Administer** ([Exotic Hridoy](https://www.facebook.com/deobfuscate))
