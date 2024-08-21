@@ -1,22 +1,24 @@
-![Picsart_24-01-09_14-25-54-313](https://github.com/exotic-inx/REVERSE/assets/92029487/977a586c-0640-4ad2-ba24-6488c6c25e65)
+<h4><b>Deobfuscation Instructions</b></h4>
 
-<h4 align="center"><b>Deobfuscate the attached files and contact the Author with Reversed Keys</b></h4>
+Objective **—** Deobfuscate the attached files and contact the author with the reversed keys.
 
-<h5><b>OBFUCATED FILE</b></h5>
+![Obfuscated File](https://github.com/exotic-inx/REVERSE/assets/92029487/977a586c-0640-4ad2-ba24-6488c6c25e65)
 
-* *Need some moment to execute*
-* *Doesn't contains any harmful element*
-* *Don't try if your phone is weak cause it may lag or force exit*
+<h4><b>OBFUCATED FILE</b></h4>
 
-<h5><b>LEVEL</b></h5>
+- Execution may take a moment.
+- Contains no harmful elements.
+- Avoid running on weak devices to prevent lag or force exits.
+
+<h4><b>LEVEL</b></h4>
 
 - [x] Easy
 - [x] Average
 - [x] Hard
 
-<h5 align="center"><b>DESCRIPTION</b></h5>
+<h4 align="center"><b>DESCRIPTION</b></h4>
 
 > [!NOTE]  
 > ****All the obfuscators are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder****.
 
-* **Official Administer** [Exotic Hridoy](https://www.facebook.com/deobfuscate)
+* **Reserved with** [Exotic Hridoy](https://cythonize.github.io/)
