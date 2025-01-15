@@ -21,4 +21,4 @@ Objective **—** Deobfuscate the attached files and contact the author with the
 > [!NOTE]  
 > ****All the obfuscators are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder****.
 
-* **Reserved with** [Exotic Hridoy](https://cythonize.github.io/)
+* **Reserved with** [Exotic Hridoy](https://discord.gg/cryptonite_klein/)
